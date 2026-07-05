@@ -7,4 +7,4 @@
 - 📫 Reach me at: goyalsanskar.14@gmail.com
 
 ## Projects
-- [git-learning-log](https://github.com/your-github-username/git-learning-log) - My first Git project tracking a learning log
+- [git-learning-log](https://github.com/Phoenix-14/git-learning-log) - My first Git project tracking a learning log
